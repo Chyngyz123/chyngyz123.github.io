@@ -13,7 +13,7 @@
 <servers>
 	
 	<server id="1">
-		<name>Drive</name>
+		<name>DRIVE</name>
 		<ip>164.132.119.7</ip>
 		<port>2241</port>
 		<sockets>1</sockets>
