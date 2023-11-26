@@ -13,7 +13,7 @@
 <servers>
 	
 	<server id="1">
-		<name>SERVER 1</name>
+		<name>SERVER BY ABR</name>
 		<ip>185.169.134.139</ip>
 		<port>7777</port>
 		<sockets>1</sockets>
