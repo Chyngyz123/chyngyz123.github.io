@@ -31,4 +31,13 @@
 		<start_build>35</start_build>
 		<end_build>35</end_build>
 	</server>
+	<server id="3">
+		<name>Voronezh</name>
+		<ip>164.132.119.7</ip>
+		<port>2241</port>
+		<sockets>1</sockets>
+		<socket_port>8004</socket_port>
+		<start_build>35</start_build>
+		<end_build>35</end_build>
+	</server>
 </servers>
