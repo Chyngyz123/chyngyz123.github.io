@@ -1,0 +1,16 @@
+[
+    {
+      "color": "000000",
+      "dopname": "(Х2 Акции)",
+      "maxonline": 1000,
+      "name": "BLACK",
+      "online": 341
+    },
+    {
+      "color": "FFFFFF",
+      "dopname": "(НЕТ ДОСТУПА)",
+      "maxonline": 1000,
+      "name": "TEST",
+      "online": 3
+    }
+  ]
